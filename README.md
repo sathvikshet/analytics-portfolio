@@ -1,24 +1,25 @@
-# 📊 Analytics Portfolio — SQL & Power BI
+# 📊 Analytics Portfolio — SQL, Python & Power BI
 
 Hi, I’m **Sathvik** 👋  
-I’m a **Data Analyst focused on SQL-driven analytics and Power BI dashboards** for business decision-making.
+I’m a **Data Analyst focused on SQL-driven analytics, Python-based business analysis, and Power BI dashboards** for data-driven decision-making.
 
 This portfolio showcases **end-to-end analytics work** covering:
 - Revenue & growth analysis
 - Product usage, retention & churn
 - Experimentation & business impact
-- Executive-level Power BI dashboards
+- Executive-level dashboards and insights
 
-My work mirrors **real startup and SaaS analytics**, where analysts answer business questions using production databases and dashboards — not just toy datasets.
+My work mirrors **real startup and SaaS analytics**, where analysts solve business problems using production-style logic — not toy datasets.
 
 ---
 
 ## 🧠 Core Skills
 
 - SQL (CTEs, Window Functions, Cohort Analysis, Funnels, Experiments)
+- Python (Pandas, NumPy, Business Analytics, Automation)
 - Business & Product Analytics
 - Revenue, Growth & Churn Analysis
-- A/B Testing & Experiment Impact
+- A/B Testing & Experiment Impact Analysis
 - Power BI (Executive & Founder Dashboards)
 - Data storytelling for non-technical stakeholders
 
@@ -35,7 +36,7 @@ My work mirrors **real startup and SaaS analytics**, where analysts answer busin
 - Customer concentration & Pareto analysis
 - Revenue leakage (failed & refunded payments)
 
-📂 Repo: `revenue-growth-analytics-sql`  
+📂 Folder: `SQL_PROJECTS/revenue-growth-analytics-sql`  
 📄 Includes: SQL files, final views, founder insights, assumptions
 
 ---
@@ -50,7 +51,7 @@ My work mirrors **real startup and SaaS analytics**, where analysts answer busin
 - Churn detection & revenue at risk
 - Feature adoption vs retention
 
-📂 Repo: `product-retention-churn-analytics-sql`  
+📂 Folder: `SQL_PROJECTS/product-retention-churn-analytics-sql`  
 📄 Includes: SQL files, final views, founder insights, assumptions
 
 ---
@@ -65,8 +66,33 @@ My work mirrors **real startup and SaaS analytics**, where analysts answer busin
 - Retention comparison between variants
 - Rollout vs rollback recommendations
 
-📂 Repo: `experimentation-business-impact-analytics-sql`  
+📂 Folder: `SQL_PROJECTS/experimentation-business-impact-analytics-sql`  
 📄 Includes: SQL files, final views, founder insights, assumptions
+
+---
+
+## 🐍 PYTHON PROJECTS
+
+### 1️⃣ SaaS Business Analytics Engine (Python)
+**Focus:** End-to-end business analytics using modular Python
+
+Built a **senior-level Python analytics engine** to analyze **revenue, churn, retention, cohort behavior, and A/B experimentation** for a SaaS-style product.  
+This project demonstrates how Python is used beyond notebooks to support **real business decision-making**.
+
+**Key analyses:**
+- Total revenue, ARPU & revenue by plan
+- Revenue concentration & top-user risk analysis
+- Churn detection using inactivity-based logic
+- Monthly revenue at risk due to churn
+- Signup-month cohort retention analysis
+- A/B testing (conversion rates & uplift)
+
+**What makes this senior-level:**
+- Modular Python architecture (production-style)
+- Business-first metrics, not toy EDA
+- Executive-ready insights via a minimal notebook
+
+📂 Folder: `PYTHON_DASHBOARDS/python-saas-analytics`
 
 ---
 
@@ -104,8 +130,8 @@ My work mirrors **real startup and SaaS analytics**, where analysts answer busin
 
 Each dashboard includes:
 - Screenshot previews
-- Business-focused README
-- Founder-ready storytelling
+- Business-focused documentation
+- Executive-ready storytelling
 
 ---
 
@@ -115,13 +141,13 @@ Each dashboard includes:
 - Identifying **why users churn**
 - Measuring **experiment impact**
 - Improving **retention & profitability**
-- Turning data into **clear decisions**
+- Turning data into **clear business decisions**
 
 ---
 
 ## 💼 Target Roles
 
-- Junior / Early-Mid Data Analyst
+- Data Analyst (Junior / Early–Mid)
 - Product / Growth Analyst
 - Business Analyst
 - Remote / Foreign Contract Roles
@@ -135,5 +161,3 @@ If you’re a founder or team looking for **contract-based analytics support**, 
 
 **GitHub:** (this repository)  
 **LinkedIn:** (add link)
-
----
